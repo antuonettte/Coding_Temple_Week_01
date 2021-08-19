@@ -27,6 +27,18 @@
     padding-top: 15px;
     font-weight: bold;
 }
+.line{
+    border-top: 1px solid lightgray;
+    box-shadow: 0px 8px 20px black;
+    margin-bottom: 50px;
+}
+
+.new{
+    font-size: 10px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 20px;
+}
 
 .btn{
     margin-top: 10px;
